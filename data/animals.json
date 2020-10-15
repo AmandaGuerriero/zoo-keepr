@@ -126,6 +126,16 @@
         "lively"
       ],
       "id": "12"
+    },
+    {
+      "name": "Betty",
+      "species": "Bat",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry",
+        "anxious"
+      ],
+      "id": "13"
     }
   ]
 }
